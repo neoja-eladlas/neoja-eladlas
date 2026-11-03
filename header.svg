@@ -47,6 +47,9 @@
 
   <rect x="350" y="198" width="500" height="2" fill="url(#line)"/>
 
-  <text x="600" y="246" text-anchor="middle" font-family="Helvetica Neue, Arial, sans-serif"
-        font-weight="600" font-size="30" letter-spacing="4" fill="url(#chromeSoft)">GAME DEVELOPER · UNITY TEAM LEAD</text>
+    <text x="600" y="246" text-anchor="middle" font-family="Helvetica Neue, Arial, sans-serif"
+        font-weight="600" font-size="30" letter-spacing="6" fill="url(#chromeSoft)">SOFTWARE DEVELOPER</text>
+
+  <text x="600" y="284" text-anchor="middle" font-family="Helvetica Neue, Arial, sans-serif"
+        font-weight="500" font-size="18" letter-spacing="3" fill="#8e949b">UNITY · FULL STACK · AI-ASSISTED DEVELOPMENT</text>
 </svg>
