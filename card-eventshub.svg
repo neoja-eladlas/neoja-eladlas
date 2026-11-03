@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="170" viewBox="0 0 580 170">
+  <defs>
+    <radialGradient id="bg" cx="30%" cy="20%" r="95%">
+      <stop offset="0" stop-color="#3a3d43"/><stop offset="0.55" stop-color="#16181b"/><stop offset="1" stop-color="#060708"/>
+    </radialGradient>
+    <linearGradient id="chrome" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fff1e0"/><stop offset="0.42" stop-color="#ffb35c"/>
+      <stop offset="0.55" stop-color="#a84e0c"/><stop offset="0.7" stop-color="#f08a24"/><stop offset="1" stop-color="#ffd9a8"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#c9ccd1"/><stop offset="0.5" stop-color="#3c4047"/><stop offset="1" stop-color="#9aa0a6"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="578" height="168" rx="14" fill="url(#bg)" stroke="url(#edge)" stroke-width="2"/>
+  <text x="30" y="68" font-family="Arial Black, Helvetica Neue, Arial, sans-serif" font-weight="900" font-size="34" letter-spacing="2" fill="url(#chrome)">NEOJA EVENTS HUB</text>
+  <rect x="30" y="84" width="120" height="2" fill="#f08a24" opacity="0.8"/>
+  <text x="30" y="118" font-family="Helvetica Neue, Arial, sans-serif" font-size="19" fill="#e2e4e7">CRM for managing leads and events</text>
+  <text x="30" y="146" font-family="Helvetica Neue, Arial, sans-serif" font-size="15" letter-spacing="1" fill="#8e949b">Full Stack · Web App · Production deployment</text>
+</svg>
