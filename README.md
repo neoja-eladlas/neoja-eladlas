@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" alt="Elad Laster – Game Developer · Unity Team Lead" width="100%"/>
+  <img src="header.svg" alt="Elad Laster – Game Developer · Unity Team Lead" width="100%"/>
 </p>
 
 <p align="center">
@@ -24,12 +24,12 @@ Game developer and **Unity Team Lead at [Neoja](https://neoja.com)**, where my t
 ### 🕹️ Featured projects
 
 <p align="center">
-  <a href="https://github.com/neoja-eladlas/Velo7-Showcase"><img src="assets/card-velo7.svg" width="49%" alt="Velo7"/></a>
-  <a href="https://github.com/neoja-eladlas/Dungeons-And-Rats-Final"><img src="assets/card-dungeons.svg" width="49%" alt="Dungeons & Rats"/></a>
+  <a href="https://github.com/neoja-eladlas/Velo7-Showcase"><img src="card-velo7.svg" width="49%" alt="Velo7"/></a>
+  <a href="https://github.com/neoja-eladlas/Dungeons-And-Rats-Final"><img src="card-dungeons.svg" width="49%" alt="Dungeons & Rats"/></a>
 </p>
 <p align="center">
-  <img src="assets/card-aibuilder.svg" width="49%" alt="AI Game Builder"/>
-  <a href="https://github.com/neoja-eladlas/Final-Project-debateIL-Client"><img src="assets/card-debateil.svg" width="49%" alt="debateIL"/></a>
+  <img src="card-aibuilder.svg" width="49%" alt="AI Game Builder"/>
+  <a href="https://github.com/neoja-eladlas/Final-Project-debateIL-Client"><img src="card-debateil.svg" width="49%" alt="debateIL"/></a>
 </p>
 
 <sub>🔒 Some projects are private. Demos and code walkthroughs are available on request.</sub>
