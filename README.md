@@ -12,7 +12,7 @@
 
 ### 👋 About me
 
-Game developer and **Unity Team Lead at [Neoja](https://neoja.com)**, where my team builds 20+ real-time interactive games for basketball courts, with multi-screen displays, floor projections and real hardware.
+**Unity developer and Unity Team Lead at [Neoja](https://neoja.com)**, where my team builds 20+ real-time interactive games for basketball courts, with multi-screen displays, floor projections and real hardware.
 
 - 🎮 Gameplay systems, performance optimization and live production games
 - 🔌 Connecting games to the real world: computer vision, BLE sensors, MQTT, custom hardware
