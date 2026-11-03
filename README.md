@@ -28,7 +28,7 @@
   <a href="https://github.com/neoja-eladlas/Dungeons-And-Rats-Final"><img src="card-dungeons.svg" width="49%" alt="Dungeons & Rats"/></a>
 </p>
 <p align="center">
-  <img src="card-aibuilder.svg" width="49%" alt="AI Game Builder"/>
+  <a href="https://github.com/neoja-eladlas/NeojaLeadHub-Showcase"><img src="card-eventshub.svg" width="49%" alt="Neoja Events Hub"/></a>
   <a href="https://github.com/neoja-eladlas/Final-Project-debateIL-Client"><img src="card-debateil.svg" width="49%" alt="debateIL"/></a>
 </p>
 
